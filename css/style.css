@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+h2{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin: 0% 10% 0% 10%;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+p{
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
+  text-align: center;
+  margin: 0% 20% 0% 20%;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+img{
+  height: 300px;
+  width: 400px;
+}
