@@ -2,5 +2,5 @@
 //When clicked, button expands to show email address, phone number, city, state
 function seeMore(){
   var information = document.getElementById("contactinfo");
-  information.innerHTML = "kumaranika96@gmail.com; 415-497-7841; Boston,MA"
+  information.innerHTML = " <br> kumaranika96@gmail.com <br> 415-497-7841 <br> Boston,MA"
 }
