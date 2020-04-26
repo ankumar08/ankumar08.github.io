@@ -1,3 +1,6 @@
+body {
+  background-color: #D4E6F1;
+}
 h1 {
   font-family: 'Raleway', sans-serif;
   text-align: center;
@@ -10,13 +13,9 @@ h2{
 }
 h3{
   font-family: 'Raleway', sans-serif;
-  text-align: center;
 }
 p{
   font-family: 'Source Serif Pro', serif;
-  text-align: center;
-  text-align: center;
-  margin: 0% 20% 0% 20%;
 }
 .flex-container {
   display: flex;
@@ -24,6 +23,15 @@ p{
   align-items: center;
 }
 img{
-  height: 100px;
-  width: 200px;
+  height: 300px;
+  width: 400px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.right{
+  display: flex;
+  position: relative;
+  right: 0px;
+ width: 500px;
 }
